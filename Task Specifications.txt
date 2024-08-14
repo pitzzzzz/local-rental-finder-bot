@@ -1,0 +1,7 @@
+Task Specifications
+
+Following tutorial from Internet Made Coder on YT
+
+TASK REQUIREMENTS
+1. define the parameters of 'dream rental property'
+2. scrape information from online rental listing
